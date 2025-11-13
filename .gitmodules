@@ -1,3 +1,6 @@
 [submodule "Var1ZIMA"]
 	path = Var1ZIMA
 	url = https://github.com/d404mer/Var1ZIMA.git
+[submodule "Var2ZIMA"]
+	path = Var2ZIMA
+	url = https://github.com/d404mer/Var2ZIMA.git
